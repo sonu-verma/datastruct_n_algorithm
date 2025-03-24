@@ -6,7 +6,7 @@
 3 Find the largest and smallest elements in an array.
 4 Reverse an array without using built-in functions.
 5 Count occurrences of a specific value in an array.
-Merge two arrays into one.
+6 Merge two arrays into one.
 Check if a value exists in an array.
 Remove duplicates from an array.
 Find the second largest number in an array.
