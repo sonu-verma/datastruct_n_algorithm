@@ -3,7 +3,7 @@
 ✅ Beginner (Basic concepts — 10 questions):
 1 Create an array of numbers and print them. - Done
 2 Find the sum of all elements in an array.
-Find the largest and smallest elements in an array.
+3 Find the largest and smallest elements in an array.
 Reverse an array without using built-in functions.
 Count occurrences of a specific value in an array.
 Merge two arrays into one.
