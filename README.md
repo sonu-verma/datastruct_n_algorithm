@@ -8,7 +8,7 @@
 5 Count occurrences of a specific value in an array.
 6 Merge two arrays into one.
 7 Check if a value exists in an array.
-Remove duplicates from an array.
+8 Remove duplicates from an array.
 Find the second largest number in an array.
 Sort an array without using sort() function.
 
