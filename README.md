@@ -10,7 +10,7 @@
 7 Check if a value exists in an array.
 8 Remove duplicates from an array.
 9 Find the second largest number in an array.
-Sort an array without using sort() function.
+10 Sort an array without using sort() function.
 
 ✅ Intermediate (Problem-solving with arrays — 10 questions):
 Rotate an array by k positions.
