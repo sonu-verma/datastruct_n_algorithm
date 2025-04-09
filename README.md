@@ -16,8 +16,7 @@
 
 1 Rotate an array by k positions.
 2 Find pairs in an array whose sum equals a given number.
-
-Move all zeroes to the end without changing order of non-zero elements.
+3 Move all zeroes to the end without changing order of non-zero elements.
 
 Find the missing number from a sequence array.
 
