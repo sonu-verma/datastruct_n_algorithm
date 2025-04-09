@@ -13,8 +13,8 @@
 10 Sort an array without using sort() function.
 
 ✅ Intermediate (Problem-solving with arrays — 10 questions):
-Rotate an array by k positions.
 
+Rotate an array by k positions.
 Find pairs in an array whose sum equals a given number.
 
 Move all zeroes to the end without changing order of non-zero elements.
